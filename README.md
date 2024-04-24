@@ -1,5 +1,10 @@
-# Workshop on Open Source Licensing & Software Citation <a href='https://opensource.stanford.edu'><img src='https://github.com/fvera02/os-stanford-workshop/blob/main/OpenSource%40Stanford%20Circle%20Logo.png' align="right" height="140"/></a>
-*Content produced for Open Source Licensing &amp; Software Citation 4/25 workshop*
+# Workshop on Open Source Licensing & Software Citation
+<p align="center">
+<img src="https://github.com/fvera02/os-stanford-workshop/blob/main/OpenSource%40Stanford%20Circle%20Logo.png" align="middle" height="180"/>
+</p>
+<br>
+
+The content featured in this repository was produced for the [*OpenSource@Stanford*](https://opensource.stanford.edu) Open Source Licensing &amp; Software Citation 4/25 workshop.
 
 
 ## Content
@@ -18,3 +23,7 @@ The content in this repository is licensed under [CC BY 4.0](https://creativecom
 
 ## Acknowledgments
 Thank you to the open source community at Stanford for their input and feedback on the workshop content.
+
+## Citation
+To cite the repository, please use the following citation format:
+*[To be inserted during the workshop]*
