@@ -1,4 +1,4 @@
-# Workshop on Open Source Licensing & Software Citation <img src='https://github.com/fvera02/os-stanford-workshop/blob/main/OpenSource%40Stanford%20Circle%20Logo.png' align="right" height="140">
+# Workshop on Open Source Licensing & Software Citation <a href='https://opensource.stanford.edu'><img src='https://github.com/fvera02/os-stanford-workshop/blob/main/OpenSource%40Stanford%20Circle%20Logo.png' align="right" height="140"/></a>
 *Content produced for Open Source Licensing &amp; Software Citation 4/25 workshop*
 
 
