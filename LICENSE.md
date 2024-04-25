@@ -1,7 +1,5 @@
 Attribution 4.0 International
 
-Copyright (c) 2024 The Board of Trustees of the Leland Stanford Junior University
-
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
@@ -57,6 +55,8 @@ exhaustive, and do not form part of our licenses.
 =======================================================================
 
 Creative Commons Attribution 4.0 International Public License
+
+Copyright (c) 2024 The Board of Trustees of the Leland Stanford Junior University
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
