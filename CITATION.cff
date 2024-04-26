@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vera"
+  given-names: "Francesca"
+  orcid: "https://orcid.org/0000-0001-8791-3854"
+- family-names: "Chandler"
+  given-names: "Zach"
+  orcid: "https://orcid.org/0000-0003-2402-9839"
+title: "Open Source Workshop Resources"
+version: 1.0.0
+date-released: 2024-04-26
+url: "https://github.com/fvera02/os-stanford-workshop"
