@@ -26,4 +26,12 @@ Thank you to the open source community at Stanford for their input and feedback 
 
 ## Citation
 To cite the repository, please use the following citation format:
-*[To be inserted during the workshop]*
+```
+@misc{Vera_Open_Source_Workshop_2024,
+author = {Vera, Francesca and Chandler, Zach},
+month = apr,
+title = {{Open Source Workshop Resources}},
+url = {https://github.com/fvera02/os-stanford-workshop},
+year = {2024}
+}
+```
