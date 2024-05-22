@@ -1,4 +1,4 @@
-Copyright (c) 2024 The Board of Trustees of the Leland Stanford Junior University
+Copyright (c) 2024 The Board of Trustees of the Leland Stanford Junior University, OpenSource@Stanford
 
 Attribution 4.0 International
 
